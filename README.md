@@ -5,7 +5,7 @@
 ## Demo 📸
 
 <div align="center" >
-   <img src="./github/s.png" alt="demo-mobile" height="425">
+   <img src="./github/navbar.gif" alt="demo-mobile" height="425">
 </div>
  ---
 
