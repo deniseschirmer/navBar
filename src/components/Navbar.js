@@ -1,5 +1,5 @@
 import { useRef } from "react";
-// import { FaBars, FaTimes } from "react-icons/fa";
+import { FaBars, FaTimes } from "react-icons/fa";
 import "../Styles/main.css";
 
 function Navbar() {
@@ -14,15 +14,15 @@ function Navbar() {
       <h3>LOGO</h3>
       <nav ref={navRef}>
         <a href="/#">HOME</a>
-        <a href="/#">BANHO E TOSA</a>
-        <a href="/#">CONSULTÓRIO</a>
+        <a href="/#">SOBRE</a>
+        <a href="/#">PRODUTOS</a>
         <a href="/#">CONTATO</a>
         <button className="nav-btn nav-close-btn" onClick={showNavbar}>
-          {/* <FaTimes /> */}
+          <FaTimes />
         </button>
       </nav>
       <button className="nav-btn" onClick={showNavbar}>
-        {/* <FaBars /> */}
+        <FaBars />
       </button>
     </header>
   );
