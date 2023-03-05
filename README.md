@@ -47,7 +47,7 @@ $ npm run dev
 ```
 
 <a href="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png">
-<img src="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png" alt="linkedin" height="50"></a>
+<img src="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png" alt="LinkedIn" height="50"></a>
 <br />
 
 #### Made with love by: Denise Schirmer
